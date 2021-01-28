@@ -1,5 +1,6 @@
 .stack-work/
 .DS*
 src/.DS*
-Test/
+test/
+traintracks.cabal
 *~
